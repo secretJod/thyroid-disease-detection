@@ -1,3 +1,11 @@
+
+https://github.com/user-attachments/assets/09fe7257-bc74-4b6e-b865-0328f6235d3c
+
+
+
+
+
+
 # Thyroid Disease Detection
 
 Thyroid disease is a very common problem in India, more than one crore people are suffering with the disease every year. Thyroid disorder can speed up or slow down the metabolism of the body.
